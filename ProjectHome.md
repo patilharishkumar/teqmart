@@ -1,0 +1,1 @@
+An online e commerce platform that is built on the symfony mvc framework. The main target of this project is to make it use easy to adapt to any other project
